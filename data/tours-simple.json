@@ -1,0 +1,79 @@
+[
+    {
+        "name":"The Forest Hiker",
+        "duration":5,
+        "maxGroupSize":25,
+        "difficulty":"easy",
+        "ratingAverage":4.5,
+        "ratingQuatity":37,
+        "price":1000,
+        "summary":"Tours is a university town between France's Cher and Loire rivers. Once a Gallic-Roman settlement, today it's a university town and a traditional gateway for exploring the chateaux of the Loire Valley region. Major landmarks include the cathedral, Saint-Gatien, whose flamboyant Gothic facade is flanked by towers with 12th-century bases and Renaissance tops.",
+        "imageCover":"tour1.jpg",
+        "images":["t1.jpg","t2.jpg","t3.jpg"],
+        "startDates":["2021-04-25,10:00","2020-04-25,10:00","2022-04-25,10:00"]
+
+    },
+ 
+    {"name":"The Forest Rugish",
+    "duration":5,"maxGroupSize":25,
+    "difficulty":"easy",
+    "ratingAverage":4.5,
+    "ratingQuatity":37,
+    "price":1500,
+    "summary":"Tours is a university town between France's Cher and Loire rivers. Once a Gallic-Roman settlement, today it's a university town and a traditional gateway for exploring the chateaux of the Loire Valley region. Major landmarks include the cathedral, Saint-Gatien, whose flamboyant Gothic facade is flanked by towers with 12th-century bases and Renaissance tops.",
+    "imageCover":"tour1.jpg",
+    "images":["t1.jpg","t2.jpg","t3.jpg"],
+    "startDates":["2021-04-25,10:00","2020-04-25,10:00","2022-04-25,10:00"]
+    },
+
+    {"name":"The Forest Gent",
+    "duration":5,
+    "maxGroupSize":15,
+    "difficulty":"easy",
+    "ratingAverage":4.7,
+    "ratingQuatity":37,
+    "price":900,
+    "summary":"Tours is a university town between France's Cher and Loire rivers. Once a Gallic-Roman settlement, today it's a university town and a traditional gateway for exploring the chateaux of the Loire Valley region. Major landmarks include the cathedral, Saint-Gatien, whose flamboyant Gothic facade is flanked by towers with 12th-century bases and Renaissance tops.",
+    "imageCover":"tour1.jpg",
+    "images":["t1.jpg","t2.jpg","t3.jpg"],
+    "startDates":["2021-04-25,10:00","2020-04-25,10:00","2022-04-25,10:00"]
+    },
+    
+    {"name":"Jerusalem Tour",
+    "duration":"5",
+    "maxGroupSize":"30",
+    "difficulty":"medium",
+    "ratingAverage":4.6,
+    "ratingQuatity":"37",
+    "price":"500",
+    "summary":"Tours is a university town between France's Cher and Loire rivers. Once a Gallic-Roman settlement, today it's a university town and a traditional gateway for exploring the chateaux of the Loire Valley region. Major landmarks include the cathedral, Saint-Gatien, whose flamboyant Gothic facade is flanked by towers with 12th-century bases and Renaissance tops.",
+    "imageCover":"tour1.jpg",
+    "images":["t1.jpg","t2.jpg","t3.jpg"],
+    "startDates":["2021-04-25,10:00","2020-04-25,10:00","2022-04-25,10:00"]
+    },
+
+    {"name":"Emperior City",
+    "duration":"5",
+    "maxGroupSize":"25",
+    "difficulty":"easy",
+    "ratingAverage":4.7,
+    "ratingQuatity":"37",
+    "price":"397",
+    "summary":"Tours is a university town between France's Cher and Loire rivers. Once a Gallic-Roman settlement, today it's a university town and a traditional gateway for exploring the chateaux of the Loire Valley region. Major landmarks include the cathedral, Saint-Gatien, whose flamboyant Gothic facade is flanked by towers with 12th-century bases and Renaissance tops.",
+    "imageCover":"tour1.jpg",
+    "images":["t1.jpg","t2.jpg","t3.jpg"],
+    "startDates":["2021-04-25,10:00","2020-04-25,10:00","2022-04-25,10:00"]
+    },
+    {"name":"Israel Tour",
+    "duration":"5",
+    "maxGroupSize":"25",
+    "difficulty":"easy",
+    "ratingAverage":4.5,
+    "ratingQuatity":"37",
+    "price":"2000",
+    "summary":"Tours is a university town between France's Cher and Loire rivers. Once a Gallic-Roman settlement, today it's a university town and a traditional gateway for exploring the chateaux of the Loire Valley region. Major landmarks include the cathedral, Saint-Gatien, whose flamboyant Gothic facade is flanked by towers with 12th-century bases and Renaissance tops.",
+    "imageCover":"tour1.jpg",
+    "images":["t1.jpg","t2.jpg","t3.jpg"],
+    "startDates":["2021-04-25,10:00","2020-04-25,10:00","2022-04-25,10:00"]
+    }
+]
