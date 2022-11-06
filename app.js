@@ -75,7 +75,7 @@ app.use('/api/v1/users', userRouter)
 
 // ROUTER MIDDLEWARE
 app.all('*', (req, res, next) => {
-    next(new AppError(`Can't find ${req.originalUrl} on this server!`))
+    next(new AppError(`Can not find ${req.originalUrl} on this server!`))
 });
 
 //GLOBAL ERROR HANDLING MIDDLEWARE 

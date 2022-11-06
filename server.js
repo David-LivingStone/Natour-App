@@ -46,7 +46,7 @@ mongoose.connect("mongodb+srv://david:9MIklzs0gez6LmcK@natours.3ttskzl.mongodb.n
 
 const app = require('./app');
 const port = process.env.PORT || 3000;
-const sever = app.listen(port, () =>{
+const server = app.listen(port, () =>{
     console.log(`App running on port ${port}..`);
 });
 
